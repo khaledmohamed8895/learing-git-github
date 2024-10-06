@@ -1,0 +1,3 @@
+this file to test and how creat new branch and how to merge them by 
+git checkout -b nameBranch
+git merge  nameBranch
