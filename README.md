@@ -1,2 +1,2 @@
-# learing-git-githubc
+# learing-git-github
 ##new Upadating
